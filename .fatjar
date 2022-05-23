@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Sep 04 16:12:20 ALMT 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SMSReceiver.jar
+manifest.mergeall=true
+manifest.mainclass=SMSTransceiver
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

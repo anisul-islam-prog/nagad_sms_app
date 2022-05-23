@@ -1,0 +1,9 @@
+2018-04-25 06:26:07.099 | DB initialize success!
+2018-04-25 06:26:07.359 | DB Reconnection success!
+2018-04-25 06:26:07.414 | In initSenderTimer
+2018-04-25 06:27:46.643 | DB initialize success!
+2018-04-25 06:27:46.799 | DB Reconnection success!
+2018-04-25 06:27:46.843 | In initSenderTimer
+2018-04-25 06:32:32.329 | DB initialize success!
+2018-04-25 06:32:32.544 | DB Reconnection success!
+2018-04-25 06:32:32.610 | In initSenderTimer

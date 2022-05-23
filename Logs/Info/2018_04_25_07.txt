@@ -1,0 +1,27 @@
+2018-04-25 07:15:25.651 | DB initialize success!
+2018-04-25 07:15:25.782 | DB Reconnection success!
+2018-04-25 07:15:25.835 | In initSenderTimer
+2018-04-25 07:16:05.502 | DB initialize success!
+2018-04-25 07:16:05.733 | DB Reconnection success!
+2018-04-25 07:16:05.803 | In initSenderTimer
+2018-04-25 07:16:29.801 | DB initialize success!
+2018-04-25 07:16:29.970 | DB Reconnection success!
+2018-04-25 07:16:30.017 | In initSenderTimer
+2018-04-25 07:16:49.187 | DB initialize success!
+2018-04-25 07:16:49.332 | DB Reconnection success!
+2018-04-25 07:16:49.369 | In initSenderTimer
+2018-04-25 07:18:36.524 | DB initialize success!
+2018-04-25 07:18:36.778 | DB Reconnection success!
+2018-04-25 07:18:36.831 | In initSenderTimer
+2018-04-25 07:19:27.920 | DB initialize success!
+2018-04-25 07:19:28.090 | DB Reconnection success!
+2018-04-25 07:19:28.136 | In initSenderTimer
+2018-04-25 07:19:42.730 | DB initialize success!
+2018-04-25 07:19:42.862 | DB Reconnection success!
+2018-04-25 07:19:42.915 | In initSenderTimer
+2018-04-25 07:20:06.802 | DB initialize success!
+2018-04-25 07:20:07.002 | DB Reconnection success!
+2018-04-25 07:20:07.071 | In initSenderTimer
+2018-04-25 07:22:14.335 | DB initialize success!
+2018-04-25 07:22:14.550 | DB Reconnection success!
+2018-04-25 07:22:14.612 | In initSenderTimer

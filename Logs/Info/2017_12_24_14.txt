@@ -1,0 +1,7 @@
+2017-12-24 14:08:31.900 | DB initialize success!
+2017-12-24 14:08:32.080 | DB Reconnection success!
+2017-12-24 14:08:32.800 | DB initialize success!
+2017-12-24 14:08:33.357 | DB Reconnection success!
+2017-12-24 14:08:33.359 | In connectSMSC
+2017-12-24 14:08:33.550 | SMSC Connection initialization done.
+2017-12-24 14:08:33.550 | Binding to SMSC...
